@@ -8,7 +8,7 @@
     "start": "nodemon server.js",
     "dev": "nodemon server.js"
   },
-  "author": "",
+  "author": "Drashti",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
